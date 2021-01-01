@@ -1,0 +1,60 @@
+.top-navbar a {
+  font-size: large !important;
+}
+.main-categories a {
+  float: right !important;
+  text-align: right !important;
+  font-size: large !important;
+}
+.main-categories {
+  direction: rtl !important;
+}
+.ar-text {
+  font-size: large !important;
+}
+.btn-ar {
+  font-size: large !important;
+}
+.a-ar {
+  font-size: large !important;
+}
+.ar-dir {
+  direction: rtl !important;
+  text-align: right !important;
+}
+.en-dir {
+  text-align: left !important;
+  direction: ltr !important;
+}
+
+mat-form-field {
+  text-align: right !important;
+}
+form .ar-h6 {
+  text-align: right !important;
+  font-size: large !important;
+}
+mat-form-field mat-label {
+  font-size: large !important;
+}
+.mat-horizontal-stepper-header .mat-step-label {
+  font-size: large !important;
+  margin-right: 10px !important
+  ;
+}
+.t-ar {
+  font-size: large !important;
+}
+mat-vertical-stepper {
+  text-align: right !important;
+}
+.right-align {
+  text-align: right !important;
+}
+mat-radio-group {
+  direction: rtl !important;
+  text-align: right !important;
+}
+.ar_dir_j {
+  direction: rtl !important;
+}
